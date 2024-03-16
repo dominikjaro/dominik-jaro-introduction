@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dominik</h1>
+<h1 align="center">Hey 👋, My name is Dominik</h1>
 <h3 align="center">I'm a Senior Service Desk Engineer - Eager and hands-on learner currently building my cloud projects to gain experience in cloud infrastructure. Excited to apply my skills in GCP, Terraform, HTML, Python to create robust and scalable solutions. Always up for a challenge and looking to collaborate on interesting cloud projects!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dom-j" alt="dom-j" /></a> </p>
