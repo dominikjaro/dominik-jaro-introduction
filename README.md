@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Senior Service Desk Engineer. Eager and hands-on learner currently building my cloud projects to gain experience in cloud infrastructure. Excited to apply my skills in GCP, Terraform, HTML, and Python to create robust and scalable solutions. Always up for a challenge and looking to collaborate on interesting cloud projects!</h4>
+<h4 align="left">I'm a Senior Service Desk Engineer - Eager and hands-on learner currently building my cloud projects to gain experience in cloud infrastructure. Excited to apply my skills in GCP, Terraform, HTML, and Python to create robust and scalable solutions. Always up for a challenge and looking to collaborate on interesting cloud projects!</h4>
 
 ###
 
